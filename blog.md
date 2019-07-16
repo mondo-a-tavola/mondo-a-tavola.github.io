@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Jekyll Theme - Blog - The world at dinner
+title: Jekyll Theme - Blog Page - The world at dinner
 description: Here's our blog.
 sitemap:
     priority: 1.0
