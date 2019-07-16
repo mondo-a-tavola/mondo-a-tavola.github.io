@@ -3,7 +3,7 @@ layout: post
 title:  "The first interview"
 date:   2019-7-16
 excerpt: "Huge thanks to Chiara for doing the kick-off/first interview!"
-image: "/images/pic02.jpg"
+image: "/images/chiara_gambia.jpeg"
 ---
 
 ## The first interview
