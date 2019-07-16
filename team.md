@@ -9,4 +9,4 @@ sitemap:
 ---
 
 ![Group picture](https://laurapeacemakers.github.io/images/grouppic.jpeg)
-Sunny day on our bootcamp in Istanbul, May 2019
+Sunny day on our bootcamp in Istanbul, May 2019 :sun_with_face:
