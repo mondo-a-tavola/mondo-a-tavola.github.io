@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recipes and Stories
+title: Jekyll Theme - Recipes - The world at dinner
 description: Here we post the recipes and stories.
 sitemap:
     priority: 0.7
