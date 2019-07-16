@@ -9,3 +9,4 @@ sitemap:
 ---
 ## Let us introduce ourselves...
 This is the team behind the project: Adele, Chiara, Laura, Leonardo and Pier. Nice to meet you!
+![Group picture](/images/grouppic.jpeg)
