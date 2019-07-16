@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Jekyll Theme - Team - The world at dinner
-description: That's the team behind the project.
+description: Here's our blog.
 sitemap:
     priority: 1.0
     lastmod: 2017-11-02
