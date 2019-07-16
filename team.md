@@ -7,3 +7,6 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
+
+<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
+<p> Sunny day in Istanbul, May 2019 </p>
