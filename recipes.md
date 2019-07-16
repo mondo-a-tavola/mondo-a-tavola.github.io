@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mondo a tavola - Recipes - The world at dinner
+title: Peacemakers - Recipes - The world at dinner
 description: Here we post the recipes and stories.
 sitemap:
     priority: 0.7
