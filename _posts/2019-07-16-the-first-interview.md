@@ -2,7 +2,7 @@
 layout: post
 title:  "The first interview"
 date:   2019-7-16
-excerpt: "Huge thanks to Chiara for doing the kick-off/first interview!"
+excerpt: "Huge thanks to Ousman and Chiara for doing the kick-off/first interview!"
 image: "/images/chiara_gambia.jpeg"
 ---
 
