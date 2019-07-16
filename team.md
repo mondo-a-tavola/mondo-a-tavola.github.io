@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: The Team
+title: Jekyll Theme - Team - The world at dinner
 description: That's the team behind the project.
 sitemap:
     priority: 1.0
