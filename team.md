@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jekyll Theme - Recipes - The world at dinner
+title: Jekyll Theme - Team - The world at dinner
 description: This is the team behind the project.
 sitemap:
     priority: 0.7
