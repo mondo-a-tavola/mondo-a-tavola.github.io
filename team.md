@@ -8,4 +8,5 @@ sitemap:
     changefreq: weekly
 ---
 
-![Sunny day in Istanbul, May 2019](https://laurapeacemakers.github.io/images/grouppic.jpg)
+![Group picture](https://laurapeacemakers.github.io/images/grouppic.jpeg)
+Sunny day on our bootcamp in Istanbul, May 2019
