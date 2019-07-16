@@ -8,5 +8,4 @@ sitemap:
     changefreq: weekly
 ---
 
-<a href="#" class="image main"><img src="{{ "/images/pic01.jpg" | absolute_url }}" alt="" /></a>
-<p> Sunny day in Istanbul, May 2019 </p>
+![Sunny day in Istanbul, May 2019](https://laurapeacemakers.github.io/images/grouppic.jpg)
