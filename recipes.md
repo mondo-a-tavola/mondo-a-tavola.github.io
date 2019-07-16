@@ -10,5 +10,5 @@ sitemap:
 ## Recipes
 Here we will publish the recipes.
 
-### Stories
+## Stories
 Here we will publish the stories.
